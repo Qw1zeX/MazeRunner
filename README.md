@@ -1,2 +1,2 @@
 # MazeRunner
-MazeRunner - 2D top-down RPG-action. 
+> MazeRunner - это двухмерный top-down шутер с элементами RPG.
